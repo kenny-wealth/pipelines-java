@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/keladipo/pipeline-test/_apis/build/status/kenny-wealth.pipelines-java?branchName=master)](https://dev.azure.com/keladipo/pipeline-test/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
